@@ -2,7 +2,7 @@
 
 ## 1. Memory-game
 
-Developed code: 03/2020
+Developed: 03/2020
 
 Requirements: Vanilla JS, CSS3 and HTML5.
 
@@ -12,7 +12,7 @@ Requirements: Vanilla JS, CSS3 and HTML5.
 
 ## 2. Sorting-algorithm
 
-Developed code: 04/2020
+Developed: 04/2020
 
 Algorithms
 
@@ -31,7 +31,7 @@ Requirements: Vanilla Js, CSS3, HTML5.
 
 ## 3. Snake-game-app
 
-Developed code: 04/2020 
+Developed: 04/2020 
 
 Simple, oldschoool Nokia 3310 retro style [snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 
