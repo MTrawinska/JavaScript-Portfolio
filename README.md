@@ -10,7 +10,7 @@ Requirements: Vanilla JS, CSS3 and HTML5.
 
 ## 2. Sorting-algorithm
 
-JavaScript based sorting algorithms
+Algorithms
 
     QuickSort
     Merge Sort
