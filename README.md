@@ -17,3 +17,18 @@ Photos from Unsplash and random Google search.
 [LIVE VERSION](https://montraw.pythonanywhere.com/)
 
 [More about](https://github.com/MTrawinska/Memory-Game-Basic)
+
+## Sorting-algorithm
+
+JavaScript based sorting algorithms
+
+    QuickSort
+    Merge Sort
+    Select Sort
+    Insertion sort
+    Bubble sort
+    Cocktail Shaker Sort
+
+Requirements: Vanilla Js, CSS3, HTML5.
+[LIVE VERSION](http://monikatrawinska.eu.pythonanywhere.com/) 
+[More about](https://github.com/MTrawinska/Sorting-algorithm)
